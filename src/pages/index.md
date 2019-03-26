@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a consciencex
-image: /img/home-jumbotron.jpg
+image: /img/seamless-background.jpg
 heading: Great coffee with a consciencex
 subheading: Support sustainable farming while enjoying a cupx
 mainpitch:
@@ -18,13 +18,13 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/level2characterpreview.png
+    - image: /img/windwalker.png
       text: Noob friendly but skill basedx
-    - image: /img/coffee-gear.png
+    - image: /img/earth-queen.png
       text: No pay to winx
-    - image: /img/tutorials.png
+    - image: /img/hook.png
       text: Community votesx
-    - image: /img/meeting-space.png
+    - image: /img/moon-mage.png
       text: Weekly Updatesx
   heading: What we offerx
   description: >
